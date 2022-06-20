@@ -1,0 +1,37 @@
+body {
+    background: #cbc6c6;
+
+}
+
+.nameDiv {
+    margin-top: 50px;
+    width: 300px;
+    height: 250px;
+
+
+}
+
+.nameImg {
+    width: 100%;
+    object-fit: contain;
+
+}
+
+.locationDiv {
+    margin-top: 10px;
+    width: 300px;
+    height: 250px;
+
+
+}
+
+.locationImg {
+    width: 80%;
+    object-fit: contain;
+
+}
+
+select,
+input {
+    text-align: center;
+}
